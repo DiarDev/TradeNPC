@@ -1,2 +1,2 @@
 # TradeNPC
-Trade NPC
+<p img="icon.png">
